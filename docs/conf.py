@@ -12,4 +12,4 @@ exclude_patterns = []
  
 html_theme = 'alabaster'
 
-html_favicon = '_static/gps.png' 
+html_favicon = 'favicon.png' 
